@@ -1,10 +1,10 @@
 #include<bits/stdc++.h>
-#inlcude<stdlib.h>
 using namespace std;
 
 //linked list node
 class Node
 {
+public:
 int n;
 int data;
 Node *next;
