@@ -43,7 +43,7 @@ void printList(Node *node)
 {
     while (node != NULL)
     {
-        printf(" %d ", node->data);
+        cout<<node->data;
         node = node->next;
     }
 }
