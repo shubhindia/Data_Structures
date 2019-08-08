@@ -18,6 +18,6 @@ while(!mystack.empty())
   count++;
   mystack.pop();
 }
-cout<<count<<"\n";
+cout<<count<<"\n"<<"Hello";
 
 }
